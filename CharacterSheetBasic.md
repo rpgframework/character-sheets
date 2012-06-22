@@ -1,8 +1,8 @@
 # Basic Character Sheets #
-===========================
+---------------------------------
 
 ### Establishing Personal Questions ###
-===========================================
+---------------------------------
 
 The following questions exist to help players establish their characters, both as players and as roles to play. These should be especially helpful for beginner players. Adapted from [Gloranthan Voices](http://www.btinternet.com/~Nick_Brooke/voices/ISS3001.HQVoices-300.pdf).
 
@@ -63,10 +63,10 @@ The following questions exist to help players establish their characters, both a
 
 #### What secrets do I keep?
 
-======================================
+---------------------------------
 
 ### Objectives
-===============================
+---------------------------------
 
 List 3 to 5 for each category. Adapted from [Life of Moonson](http://www.etyries.com/moonson/yolanela.htm)
 
@@ -77,10 +77,10 @@ List 3 to 5 for each category. Adapted from [Life of Moonson](http://www.etyries
 #### Religious
 
 
-==================================
+---------------------------------
 
 ### Who you know?
-=====================================
+---------------------------------
 
 #### As part of your family?
 
